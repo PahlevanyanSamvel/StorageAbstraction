@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-StorageAbstraction/Pods-StorageAbstraction-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework

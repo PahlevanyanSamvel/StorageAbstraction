@@ -1,0 +1,6 @@
+framework module Pods_StorageAbstraction {
+  umbrella header "Pods-StorageAbstraction-umbrella.h"
+
+  export *
+  module * { export * }
+}
